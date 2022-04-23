@@ -9,5 +9,10 @@ h1{
 }
 
 h2{
-    color:goldenrod
+    color:goldenrod;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2:hover{
+    background-color: blue
 }
