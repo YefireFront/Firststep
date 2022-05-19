@@ -14,5 +14,6 @@ h2{
 }
 
 h2:hover{
-    background-color: blue
+    background-color: blue;
+    font-size: 2rem;
 }
